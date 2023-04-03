@@ -90,11 +90,15 @@ footer{
     .step-box1{
         width: 90%;
        margin-top: 50px;
+       margin-right:  auto;
+       margin-left:  auto;
        margin-bottom: 20px;
     }
     
      .step-box2{
          width: 90%;
+         margin-right:  auto;
+         margin-left:  auto;
          margin-top: 20px;
        margin-bottom: 20px;
     }
@@ -102,6 +106,8 @@ footer{
     .step-box3{
         width: 90%;
          margin-top: 20px;
+         margin-right:  auto;
+       margin-left:  auto;
        margin-bottom: 50px;
     }
     
