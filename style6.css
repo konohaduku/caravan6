@@ -16,7 +16,23 @@ main{
     display: flex;
 }
 
-.step-box{
+.step-box1{
+    width: 300px;
+    background-color: #eeeeee;
+    margin: 30px;
+    padding: 10px;
+    position: relative;
+}
+
+.step-box2{
+    width: 300px;
+    background-color: #eeeeee;
+    margin: 30px;
+    padding: 10px;
+    position: relative;
+}
+
+.step-box3{
     width: 300px;
     background-color: #eeeeee;
     margin: 30px;
@@ -71,9 +87,22 @@ footer{
         display: block;
     }
     
-    .step-box{
+    .step-box1{
         width: 90%;
-        margin-left: 5%;
+       margin-top: 50px;
+       margin-bottom: 20px;
+    }
+    
+     .step-box2{
+         width: 90%;
+         margin-top: 20px;
+       margin-bottom: 20px;
+    }
+    
+    .step-box3{
+        width: 90%;
+         margin-top: 20px;
+       margin-bottom: 50px;
     }
     
     header{
